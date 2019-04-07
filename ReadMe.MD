@@ -12,4 +12,8 @@ collection of stock from that file. This collection
  calling the command "mvn clean install" in the project 
  <br>
  folder
+ _______________________
+ The numbers in the file should be separated only by one
+ <br>
+ of the delimiters specified in the job
  
